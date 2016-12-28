@@ -24,6 +24,7 @@
   "dependencies": {
     "axios": "^0.15.3",
     "express": "^4.13.4",
+    "immutable": "^3.8.1",
     "react": "^0.14.8",
     "react-dom": "^0.14.8"
   },
